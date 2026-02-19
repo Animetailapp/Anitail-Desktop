@@ -10,7 +10,7 @@
     <a href="https://github.com/Animetailapp/Anitail-Desktop/releases">
       <img src="https://img.shields.io/github/downloads/Animetailapp/Anitail-Desktop/total?style=for-the-badge" alt="Downloads">
     </a>
-    <a href="https://github.com/Animetailapp/Anitail-Desktop/main/LICENSE">
+    <a href="https://github.com/Animetailapp/Anitail-Desktop/blob/main/LICENSEE">
       <img src="https://img.shields.io/github/license/Animetailapp/Anitail-Desktop?style=for-the-badge" alt="License">
     </a>
   </p>
